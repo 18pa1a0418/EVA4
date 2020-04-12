@@ -28,6 +28,7 @@
 *. In the above code I achieved 90% accuracy.
 
 ### [code2](https://github.com/Lakshman511/EVA4/blob/master/S11/Eva4_S11_2.ipynb)
-*. In the above file achieved 84% accuracy but here produced all visualisations.
+*. In the above file achieved 89% accuracy but here produced all visualisations.
 *. Reached maxlr at epoch 5.
+*. Used [this](https://github.com/Lakshman511/EVA4/blob/master/S11/Eva4library/eva4lr_range_test1.py) file for LR range test.
 ![](https://github.com/Lakshman511/EVA4/blob/master/S11/Images/lr.png)
