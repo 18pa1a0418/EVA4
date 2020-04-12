@@ -29,5 +29,5 @@
 
 ### [code2](https://github.com/Lakshman511/EVA4/blob/master/S11/Eva4_S11_2.ipynb)
 *. In the above file achieved 84% accuracy but here produced all visualisations.
-*. Achieved maxlr at epoch 5.
+*. Reached maxlr at epoch 5.
 ![](https://github.com/Lakshman511/EVA4/blob/master/S11/Images/lr.png)
