@@ -1,5 +1,13 @@
 
 # S13
+
+## Team Members
+* B Sridevi - sridevi.b@vishnu.edu.in
+* Abhinav Dayal - abhinav.dayal@vishnu.edu.in
+* A. Lakshmana Rao - 18pa1a0511@vishnu.edu.in
+* Sanjay Varma G - 18pa1a1211@vishnu.edu.in
+
+
 ## part - A
 *. In the part-A we implemented yolo with OpenCV framework. For thois we need weights file,coco names file and configuration files.[This](https://github.com/Lakshman511/EVA4/blob/master/S13/S13A/Eva4_s13_A_OpenCV_Yolo.ipynb) is the link to colab notebook where we implemented yolo using opencv framework.
 
@@ -11,6 +19,7 @@
 
 
 ## part-B
+*. [This](https://github.com/Lakshman511/YoloV3) is the link to repo where our team prepared custom dataset.
 
 YoloV3 Simplified for training on Colab with custom dataset for one class (**GUN**)
 
